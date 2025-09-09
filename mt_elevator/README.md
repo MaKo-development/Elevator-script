@@ -5,6 +5,9 @@
 
 ---
 
+:sparkles: **PREVIEW**
+https://youtu.be/4UU8oKrj8WY
+
 :sparkles: **FEATURES**
 :green_circle: Multi-framework support: QBCore, QBX (ox\_lib notify), ESX
 :green_circle: Job restrictions: only allowed jobs & grades can use elevators
